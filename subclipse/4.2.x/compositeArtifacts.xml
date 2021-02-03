@@ -1,0 +1,15 @@
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='Subclipse Latest 4.2.x Release'
+    type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' 
+    version='1.0.0'>
+    <properties size='2'>
+       <property name="p2.compressed" value="true"/>
+       <property name="p2.timestamp" value="1524764641000"/>
+    </properties>
+    <children size='4'>
+       <child location='../4.2.4'/>
+       <child location='../../javahl/1.9.x/'/>
+       <child location='https://dl.bintray.com/subclipse/svnkit-updates/'/>
+       <child location='../../m2e/latest/'/>
+    </children>
+</repository>
