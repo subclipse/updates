@@ -4,12 +4,12 @@
     version='1.0.0'>
     <properties size='2'>
        <property name="p2.compressed" value="true"/>
-       <property name="p2.timestamp" value="1524764641000"/>
+       <property name="p2.timestamp" value="1612379799000"/>
     </properties>
     <children size='4'>
        <child location='../4.2.4'/>
        <child location='../../javahl/1.9.x/'/>
-       <child location='https://dl.bintray.com/subclipse/svnkit-updates/'/>
+       <child location='https://subclipse.github.io/svnkit-updates/1.10.2/'/>
        <child location='../../m2e/latest/'/>
     </children>
 </repository>
